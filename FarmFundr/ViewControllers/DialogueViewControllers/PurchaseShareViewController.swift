@@ -99,7 +99,7 @@ extension PurchaseShareViewController : PayPalPaymentDelegate{
             print("id is  --->%@",payauid)
             print("created  time ---%@",paycreatetime)
             print("paystate is ----->%@",paystate)
-            print("payintent is ----->%@",payintent
+            print("payintent is ----->%@",payintent)
              self.dismiss(animated: true, completion: nil)
             
         })
