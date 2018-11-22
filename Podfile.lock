@@ -1,0 +1,40 @@
+PODS:
+  - Alamofire (4.7.3)
+  - CardIO (5.4.1)
+  - IQKeyboardManager (6.0.3)
+  - PayPal-iOS-SDK (2.18.1):
+    - PayPal-iOS-SDK/CardIO (= 2.18.1)
+    - PayPal-iOS-SDK/Core (= 2.18.1)
+  - PayPal-iOS-SDK/CardIO (2.18.1):
+    - CardIO (~> 5.4.1)
+  - PayPal-iOS-SDK/Core (2.18.1)
+  - SwiftEventBus (2.1.2)
+  - XLPagerTabStrip (8.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - IQKeyboardManager
+  - PayPal-iOS-SDK
+  - SwiftEventBus
+  - XLPagerTabStrip
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - CardIO
+    - IQKeyboardManager
+    - PayPal-iOS-SDK
+    - SwiftEventBus
+    - XLPagerTabStrip
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  CardIO: 56983b39b62f495fc6dae9ad7cf875143df06443
+  IQKeyboardManager: c390e612f4b98c8fd748016470138537dc163ead
+  PayPal-iOS-SDK: 10654cd111e911a9807bddb96fae81aacb8e9915
+  SwiftEventBus: 9e8f6d8cff2826d66536ec367d17a47299478aa0
+  XLPagerTabStrip: c908b17cbf42fcd2598ee1adfc49bae25444d88a
+
+PODFILE CHECKSUM: db7035fd0c4c5403a57eb04f052ff3e38dcd7865
+
+COCOAPODS: 1.5.0
